@@ -2,6 +2,12 @@ Hi all,
 
 I am currently building my GitHub portfolio with projects in data analysis, automation and reporting.
 
+Best,
+
+Artur
+
+
+
 ## Projects in progress
 
 ### Stock Market Monthly Report with Python and Excel
@@ -15,6 +21,4 @@ Exploratory analysis, data preparation and visualization.
 
 The first projects will be published here soon.
 
-Best,
 
-Artur
