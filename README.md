@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi all,
 
-<!--
-**a-detzel/a-detzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently building my GitHub portfolio with projects in data analysis, automation and reporting.
 
-Here are some ideas to get you started:
+## Projects in progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stock Market Monthly Report with Python and Excel
+Automated monthly stock analysis with segmentation by country and industry, price development, key figures and Excel reporting.
+
+### SQL Analysis Project
+Data cleaning, aggregation and preparation of raw data for management reporting.
+
+### Python Data Analysis Project
+Exploratory analysis, data preparation and visualization.
+
+The first projects will be published here soon.
+
+Best,
+Artur
